@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "A retro game engine for Python"
+name = "pyxel"
+optional = false
+python-versions = ">=3.6.8"
+version = "1.4.1"
+
+[metadata]
+content-hash = "6c686cae9f452cb2f88727ef4a081a8d887096bab8be22a646325f35beafebdf"
+python-versions = "^3.8"
+
+[metadata.hashes]
+pyxel = ["2b9954684fec8b850dbe408020ddbd86c642fca630138de47bd7e94f3429450e", "e6bbe23be5c56991c386ecb45bfde0bdf8252146247bef1e8bb161e028029063"]
